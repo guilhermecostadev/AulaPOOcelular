@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Programação Orientada a Objetos\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.genruntimeconfig.cache
